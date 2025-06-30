@@ -22,3 +22,15 @@ There are two types of wireframes: low-fidelity and high-fidelity
     This is a more detailed and refined version, which is closer to the final design. It can also include more specific layout and design elements like colors, graphics, and font styles. The UI elements look realistic and might even include textures and shadows.
     **ALX Wireframe**
     The wireframe provided by [ALX](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=msJ0EoqFU2KKRGnU-0) is a high-fidelity wireframe. It has a closer resemblance to the desired finished product, as it includes colors, font styles, and graphics.
+
+## Wireframing Tools - Figma
+Figma is a cloud-based design tool widely used for UI/UX design, prototyping, and collaboration. It allows designers, developers, and stakeholders to work together in real-time within a shared workspace—no software installation needed. Given that it is browser-based, sharing wireframes is as easy as sharing a link. Teams can also leave comments within the file.  
+**Key Features for Wireframing**
+- Has an intuitive interface: drag-and-drop components, layout grids, vector tools
+- Makes use of reusable components, which allow for consistency across wireframes.
+- Multiple users can view or edit a file simultaneously, with comments and version control.
+- Given that it's a web-based tool, it can be operated from any platform, thus making it cross-platform.
+- Easily link frames together to create interactive wireframe flows.
+
+Figma streamlines the process of turning ideas into visual structures. It’s ideal for brainstorming layouts, creating low-fidelity wireframes, and quickly iterating based on feedback—all within one tool. Its collaboration features make it especially valuable for teams working remotely or cross-functionally.  
+Whether you're a beginner sketching your first app or a seasoned designer mapping out user journeys, Figma makes wireframing faster, more visual, and more collaborative.
