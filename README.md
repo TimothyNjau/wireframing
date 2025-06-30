@@ -34,3 +34,11 @@ Figma is a cloud-based design tool widely used for UI/UX design, prototyping, an
 
 Figma streamlines the process of turning ideas into visual structures. It’s ideal for brainstorming layouts, creating low-fidelity wireframes, and quickly iterating based on feedback—all within one tool. Its collaboration features make it especially valuable for teams working remotely or cross-functionally.  
 Whether you're a beginner sketching your first app or a seasoned designer mapping out user journeys, Figma makes wireframing faster, more visual, and more collaborative.
+
+## Benefits of Wireframing in Software Development
+ Wireframes guide the design process by defining structure and user experience early on. They enhance collaboration by providing a common reference point for all team members, enabling faster, clearer communication and more informed decisions.
+ - Clarifying Structure and Functionality: Wireframes serve as a blueprint for a digital product (like a website or app), focusing on layout, structure, and user flow rather than colors or final visuals. They help the team understand what goes where(buttons, menus, content blocks)
+ - Aligning Vision Early: By creating wireframes early in the design process, teams can quickly agree on the direction of a project. Stakeholders, designers, and developers get a shared view of the product’s skeleton, reducing misunderstandings later on.
+ - Saving Time and Resources: They allow teams to identify problems in layout, logic, or user flow before investing time in high-fidelity design or development.
+ - Improving Team Collaboration
+ - Supporting User-Centered Design: Because wireframes focus on function over form, they help teams prioritize user needs, ensuring navigation is logical, content is well-placed, and user actions are intuitive.
