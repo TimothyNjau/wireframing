@@ -13,3 +13,12 @@ This process is important in the design process for the following reasons:
 - Navigation: shows how users will move through the site or application.
 - Functionality: Outlines key functionalities and interactions.
 - Content Placement: Indicates where text, images, and other content will be positioned.
+
+## Types of Wireframes
+There are two types of wireframes: low-fidelity and high-fidelity
+  * Low Fidelity wireframing
+   This is the most basic type of wireframing. It focuses on the overall structure and functionality without detailed designs. It can even be achieved using a pen and paper, by drawing simple sketches. In Figma, it's achieved by drawing basic digital layouts  in grayscale. UI elements and content are represented by basic shapes like squares, triangles, circles, and lines.
+  * High Fidelity wireframing
+    This is a more detailed and refined version, which is closer to the final design. It can also include more specific layout and design elements like colors, graphics, and font styles. The UI elements look realistic and might even include textures and shadows.
+    **ALX Wireframe**
+    The wireframe provided by [ALX](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=msJ0EoqFU2KKRGnU-0) is a high-fidelity wireframe. It has a closer resemblance to the desired finished product, as it includes colors, font styles, and graphics.
